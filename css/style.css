@@ -3,3 +3,29 @@
     float: left;
   
 }
+
+.container .social-media {
+    background-color:66841b ;
+    font-size: 20px;
+    position: absolute;
+    color: #fff;
+    
+}
+
+.container .social-media {
+    width: 100%;
+    float: left;
+    background-color: #6b8920;
+    opacity: 0.9;
+    width: 1110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.container .social-media i{
+    padding:15px;
+
+}
+    

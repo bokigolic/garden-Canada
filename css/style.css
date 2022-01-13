@@ -26,6 +26,35 @@
 
 .container .social-media i{
     padding:15px;
+  
 
 }
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    bottom: 502px; 
+    padding:10px;
+    width: 100%;
+
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light li{
+    left:50px;
+}
+.logo-header{
+    position: absolute;
+    left:150px;
+}
+
+.container-fluid .navbar-brand{
+    left: 30px;
     
+}
+
+.navbar {
+    padding: 0.4em 400px !important;
+  }
+
+.navbar-nav > li{
+    padding-left:15px;
+    padding-right:10px;
+  }
